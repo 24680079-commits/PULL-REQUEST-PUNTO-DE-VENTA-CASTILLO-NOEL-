@@ -6,7 +6,7 @@ Mejoras para un proyecto ya implementado
 
 ---
 
-# 📖 Introducción
+#  Introducción
 
 Este proyecto consiste en el desarrollo de un entorno interactivo en Blender 5.x utilizando Python y la API de Blender (`bpy`). El objetivo principal fue crear un escenario compuesto por múltiples islas flotantes conectadas mediante puentes, donde un personaje animado puede desplazarse libremente utilizando controles de teclado.
 
